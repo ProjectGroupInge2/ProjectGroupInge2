@@ -1,4 +1,3 @@
-# ProjectGroupInge2
 # 💫 About Us:
 Hey, <br>We are a group of 4 engineering student working on an AI project.<br>Our project aims to predict type I diabetes in patients. <br>Feel free to check it ;)
 
